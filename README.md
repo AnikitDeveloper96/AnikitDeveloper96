@@ -1,4 +1,4 @@
-## Hello , I'm [Anikit Grover!] 👋
+## Hello , I'm Anikit Grover 👋
 
 
 <a href="https://twitter.com/anikitgrover96">
@@ -34,7 +34,7 @@
 
 - 😄 Pronouns: He/His
 
-- ⚡ Fun fact: In free time, I used to spend 1 hours listening to Punjabi songs .
+- ⚡ Fun fact: In free time, I used to spend listening to Punjabi songs and also contribute to Google CrowdSouce  .
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnikitDeveloper96" />
 
