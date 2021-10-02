@@ -1,4 +1,4 @@
-## Hello , I'm [Anikit Grover!](https://pawan.live) 👋
+## Hello , I'm [Anikit Grover!] 👋
 
 
 <a href="https://twitter.com/anikitgrover96">
