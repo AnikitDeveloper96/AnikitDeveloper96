@@ -24,11 +24,12 @@
 
 - 🔭 I’m currently working as Software Enginner at  [Terralogic Software Solutions Pvt. Ltd.](https://www.terralogic.com/).
 
+
 - 🌱 I’m currently learning Flutter, Dart and Firebase.
 
 - 🌱 Future Techstack to learn  : Learning Chatbot Development with Amazon Alexa Skills / DialogFlow by Google .
  
-- 🌱 About Me: I love to  explore every new technology/product developed by Google.
+- 🌱 About Me: I'm interested in Flutter and would like to explore more in this field. I look forward to more and more Open Source Project Contributions and also would love to       explore  every new technology/product developed by Google
 
 - 📫 How to reach me: [Youtube - @AnikitGrover](https://www.youtube.com/channel/UCzwhPwhZJ5kZuKxHPQipOKw)
 
