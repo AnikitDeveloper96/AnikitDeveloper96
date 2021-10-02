@@ -22,15 +22,19 @@
 <br/>
 <br/>
 
+- 🔭 I’m currently working as Software Enginner at  [Terralogic Software Solutions Pvt. Ltd.](https://www.terralogic.com/).
+
 - 🌱 I’m currently learning Flutter, Dart and Firebase.
 
-- 🌱 Future Techstack : Learning Chatbot Development with Amazon Alexa Skills / DialogFlow by Google .
+- 🌱 Future Techstack to learn  : Learning Chatbot Development with Amazon Alexa Skills / DialogFlow by Google .
  
-- 🌱 Pronouns: he/him
+- 🌱 About Me: I love to  explore every new technology/product developed by Google.
 
-- 🌱 About Me: I am a Enthusiastic guy with an ambition to learn and explore every new technology that also helps me to upgrade my skills and gain more knowledge...
+- 📫 How to reach me: [Youtube - @AnikitGrover](https://www.youtube.com/channel/UCzwhPwhZJ5kZuKxHPQipOKw)
 
- 
+- 😄 Pronouns: He/His
+
+- ⚡ Fun fact: In free time, I used to spend 1 hours listening to Punjabi songs .
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnikitDeveloper96" />
 
