@@ -1,9 +1,9 @@
 ### Hi there , Nice to meet you all..... 👋 🙂
 
 
-- 🌱 I’m currently learning Flutter, Dart and Firebase...
+- 🌱 I’m currently learning Flutter, Dart and Firebase.
 
-- 🌱 Future Techstack : Learning Amazon Alexa Skills with use of  Python ...
+- 🌱 Future Techstack : Learning Chatbot Development with Amazon Alexa Skills / DialogFlow by Google .
  
 - 🌱 Pronouns: he/him
 
