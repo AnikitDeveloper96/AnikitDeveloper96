@@ -3,11 +3,7 @@
 
 - We all have to stand with [Kisan Ekta Morcha](https://thekisanektamorcha.com/) - No Farmers No Food No Life #StandWithFarmers 
 
-- Central Minister’s and his son car runs over 4 protesters in Lakhimpur Kheri(UP) over farmers  on 3rd Oct 2021  who were Silently  Agitation over 3 farms laws, No Action would taken against them & No Laws and Orders will followed by any of Central Minister of Delhi and He also refuses to Resigned.....i would request you  to all  join and become part  of it and around 750 people were died without any reason from past 1 year and do #StandWithFarmers.
-
-
 - 🔭 I’m currently working as Software Enginner at  [Terralogic Software Solutions Pvt. Ltd.](https://www.terralogic.com/).
-
 
 - 🌱 I’m currently learning Flutter, Dart and Firebase.
 
