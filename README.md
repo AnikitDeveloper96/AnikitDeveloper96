@@ -22,7 +22,7 @@
 <a href="https://twitter.com/anikitgrover96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Anikit Grover" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anikit-grover/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anikit Grover" height="30" width="40" /></a>
 <a href="https://github.com/AnikitDeveloper96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Anikit Grover" height="30" width="40" /></a>
-<a href="https://www.instagram.com/anikit.developer96//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Anikit Grover" height="30" width="40" /></a>
+<a href="https://www.instagram.com/anikit.developer96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Anikit Grover" height="30" width="40" /></a>
 </p>
 
 
