@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Anikit Grover  #StandWithFarmers #NoFarmersNoFood
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Anikit Grover 
 </h1>
 
 - 🔭 I’m currently working as Software Enginner at  [Terralogic Software Solutions Pvt. Ltd.](https://www.terralogic.com/).
