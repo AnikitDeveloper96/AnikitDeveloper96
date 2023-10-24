@@ -6,7 +6,6 @@
 <h1 align="center">👋 Hi, I'm Anikit Grover</h1><!-- Work and Learning Section -->
 <p> 🚀 Currently Working as Software Engineer II at <a href="https://www.terralogic.com/">Terralogic Software Solutions Pvt. Ltd.</a> | Tech Enthusiast | Open Source Contributor </p>
 
-
 <!-- About Me Section -->
 <h3>🌟 About Me</h3>
 <p>
@@ -26,6 +25,23 @@
   In my free time, I enjoy listening to Punjabi songs and contributing to Google Apps like Google CrowdSource and Google Maps. I'm always learning and exploring new technologies as well.
 </p>
 
+
+## Top Languages Section
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnikitDeveloper96" alt="Top Languages">
+</p>
+
+## 💳 Github Profile Summary Card
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnikitDeveloper96&theme=vue"/>
+</p>
+
+## 📟 GitHub Stats
+<p align="left">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AnikitDeveloper96&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnikitDeveloper96&theme=vue" />
+</p>
+
 <!-- Connect with Me Section -->
 <h3>📫 Connect with Me</h3>
 <p align="left">
@@ -35,17 +51,9 @@
   <a href="https://www.instagram.com/iamanikitgroveroffical/?utm_source=qr&igshid=OGIxMTE0OTdkZA%3D%3D"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"></a>
 </p>
 
-<!-- GitHub Stats Section -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnikitDeveloper96&show_icons=true" alt="GitHub Stats">
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=AnikitDeveloper96&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Top Languages Section -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnikitDeveloper96" alt="Top Languages">
-</p>
-
-<!-- GitHub Streak Section -->
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnikitDeveloper96" alt="GitHub Streak">
-</p>
+<div align="left">
+### Show some ❤️ by starring some of the repositories!
+</div>
