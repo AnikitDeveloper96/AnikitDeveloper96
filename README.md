@@ -4,11 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Anikit Grover</h1>
-<p align="center">Software Engineer | Tech Enthusiast | Open Source Contributor</p>
-
-<!-- Work and Learning Section -->
-<h3>🚀 Currently Working at</h3>
-<p><a href="https://www.terralogic.com/">Terralogic Software Solutions Pvt. Ltd.</a> as a Software Engineer II</p>
+<p align="center">Software Engineer II <a href="https://www.terralogic.com/"> | Tech Enthusiast | Open Source Contributor</p>
 
 <h3>📚 Current Focus</h3>
 <p>
@@ -33,7 +29,7 @@
   <a href="https://www.youtube.com/channel/UCzwhPwhZJ5kZuKxHPQipOKw"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"></a>
   <a href="https://twitter.com/anikitgrover96"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"></a>
   <a href="https://www.linkedin.com/in/anikit-grover/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"></a>
-  <a href="https://www.instagram.com/anikit.developer96"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"></a>
+  <a href="https://www.instagram.com/iamanikitgroveroffical/?utm_source=qr&igshid=OGIxMTE0OTdkZA%3D%3D"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"></a>
 </p>
 
 <!-- GitHub Stats Section -->
