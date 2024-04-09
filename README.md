@@ -21,8 +21,7 @@
 
 <!-- Fun Fact Section -->
 <h3>🎉 Fun Fact</h3>
-<p>
-  In my free time, I enjoy listening to Punjabi songs and contributing to Google Apps like Google CrowdSource and Google Maps. I'm always learning and exploring new technologies as well.
+<p> I enjoy listening to Punjabi songs and contributing to Google Apps like Google CrowdSource and Google Maps in my free time. I'm always learning and exploring new technologies as well.
 </p>
 
 
@@ -31,7 +30,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnikitDeveloper96" alt="Top Languages">
 </p>
 
-## 💳 Github Profile Summary Card
+## 💳 GitHub Profile Summary Card
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnikitDeveloper96&theme=vue"/>
 </p>
