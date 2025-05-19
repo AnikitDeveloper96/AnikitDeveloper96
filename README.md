@@ -19,8 +19,7 @@
 
 ### 🚀 Featured Projects
 
-#### ✨ TaskWise - Your Sleek Todo App (React Native)
-
+#### ✨ TaskWise - Your Sleek Todo App (React Native) <a href="https://www.youtube.com/playlist?list=PLj518-AUxFs-dE_7SFVM2JoAZ1MUAIajj" target="_blank">View on Youtube</a>
 <p align="left">
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -36,8 +35,7 @@ A modern and intuitive to-do application built with React Native for seamless pe
 🗓️ Smart organisation features to keep your day on track.
 
 ---
-
-#### 🛍️ NEXT - Flutter E-commerce UI Exploration
+#### 📰 NEXT - Flutter E-commerce UI Exploration(Flutter) <a href="https://www.youtube.com/playlist?list=PLj518-AUxFs_u1CCPOPB_QHdyKEC0U77l" target="_blank">View on Youtube </a>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
@@ -75,7 +73,7 @@ A dynamic real-time news application designed to keep users informed with the la
 
 ---
 
-#### ✅ Bucket Todo App (Flutter & Firebase) <a href="https://play.google.com/store/apps/details?id=com.bucket.todoapp" target="_blank">View on Google Play</a>
+#### ✅ Bucket Todo App (Flutter & Firebase) <a href="https://play.google.com/store/apps/details?id=com.bucketapp" target="_blank">View on Google Play</a>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
