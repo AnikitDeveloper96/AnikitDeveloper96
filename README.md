@@ -3,18 +3,12 @@
 🚀 Driven Software Engineer II at <a href="https://www.terralogic.com/" target="_blank">Terralogic</a> | Crafting seamless mobile experiences with 📱 Flutter & ⚛️ React Native, 🍎 iOS | Sharing insights on <a href="https://www.youtube.com/playlist?list=PLj518-AUxFs-dE_7SFVM2JoAZ1MUAIajj" target="_blank">YouTube</a> 🎬 | Passionate <a href="https://github.com/AnikitDeveloper96" target="_blank">Open Source Contributor</a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnikitDeveloper96&label=Profile%20views&color=0e75b6&style=flat" alt="AnikitDeveloper96" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnikitDeveloper96" alt="AnikitDeveloper96" /></a> </p>
-
 <p align="left">
   <a href="https://www.linkedin.com/in/anikit-grover/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/anikitgrover96" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://www.instagram.com/iamanikitgroveroffical/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.youtube.com/@anikitgrover9173" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
-
-- 💬 Ask me about Flutter, React Native, Dart, JavaScript, Firebase, iOS, Mobile Development, and Technology Trends
-- 📫 How to reach me contact.anikit@gmail.com
 
 ---
 
@@ -27,6 +21,23 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS">
 </p>
+
+### 🌟 About Me
+As a Software Engineer II at Terralogic Software Solutions, I'm deeply passionate about building high-quality mobile applications using the power of Dart, Flutter, React Native, and Firebase. I thrive on creating intuitive and responsive user interfaces that deliver exceptional experiences across different platforms. My expertise extends to seamlessly integrating social media APIs (Google, Facebook), ensuring robust and user-friendly authentication and sharing features across various projects.
+
+I firmly believe in continuous growth, exploring the exciting possibilities of React Native for cross-platform development while honing my skills in Flutter. I aspire to contribute my skills at Google in the future.
+
+Beyond my professional endeavours, I actively contribute to the Google Maps community through crowdsourcing. In my free time, I enjoy staying updated with the latest tech innovations and immersing myself in the vibrant energy of Punjabi culture, especially its music.
+
+Let's connect! Feel free to reach out at <a href="mailto:contact.anikit@gmail.com">contact.anikit@gmail.com</a>.
+
+---
+
+### 📚 Current Focus
+I'm currently channelling my energy into:
+- 🚀 Deepening my expertise in Flutter, Dart, and Firebase: Continuously learning and applying advanced techniques in mobile app development.
+- ⚛️ Expanding my skills in React Native: Exploring its ecosystem for building efficient cross-platform applications.
+- 🧠 Exploring the fascinating world of AI-powered Chatbot Development: Experimenting with Alexa Skills and DialogFlow to build intelligent and engaging conversational interfaces.
 
 ---
 
@@ -46,6 +57,19 @@ Key Features:
 🗓️ Smart organisation features to keep your day on track.
 
 ---
+#### ✨ Responsive Interior Design Studio landing page in Flutter <a href="https://anikitdeveloper96.github.io/Flutter-Web-Responsive-Design-Anikit-Grover/" target="_blank">Live Demo</a>  | <a href="https://www.youtube.com/watch?v=xSGi7VRSf9w" target="_blank">View on Youtube</a>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+</p>
+
+A sleek, modern, and fully **responsive Interior Design Studio landing page** built entirely with **Flutter for the web**. This project showcases **Flutter's** capability in crafting visually stunning and high-performance **web applications** with an **adaptive UI** that looks great on any screen.
+
+**Key Features:**
+* 🎨 **Pixel-Perfect & Truly Adaptive UI**: Flawless **responsiveness** across **desktop**, **tablet**, and **mobile** devices.
+* 🎯 **Dynamic & Engaging User Flow**: Captivating Hero Section, insightful business statistics, and a smooth navigation with integrated Drawer menu for mobile.
+* ⚡ **Efficient Deployment**: Generated from a single codebase and efficiently deployed onto **GitHub Pages**.
+
+----
 #### 🛍️ NEXT - Flutter E-commerce UI Exploration (Flutter) <a href="https://www.youtube.com/playlist?list=PLj518-AUxFs_u1CCPOPB_QHdyKEC0U77l" target="_blank">View on Youtube </a>
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
@@ -92,29 +116,9 @@ Key Features:
 🌗 Customizable Themes: Personalise the app with light and dark mode.
 📅 Smart Sorting: Organise tasks by date and name for better productivity.
 
-Tech Stack: Flutter, Dart, Firebase Authentication, Firebase Firestore, Provider
-
 ---
-
-### 🌟 About Me
-As a Software Engineer II at Terralogic Software Solutions, I'm deeply passionate about building high-quality mobile applications using the power of Dart, Flutter, React Native, and Firebase. I thrive on creating intuitive and responsive user interfaces that deliver exceptional experiences across different platforms. My expertise extends to seamlessly integrating social media APIs (Google, Facebook), ensuring robust and user-friendly authentication and sharing features across various projects.
-
-I firmly believe in continuous growth, exploring the exciting possibilities of React Native for cross-platform development while honing my skills in Flutter. I aspire to contribute my skills at Google in the future.
-
-Beyond my professional endeavours, I actively contribute to the Google Maps community through crowdsourcing. In my free time, I enjoy staying updated with the latest tech innovations and immersing myself in the vibrant energy of Punjabi culture, especially its music.
-
-Let's connect! Feel free to reach out at <a href="mailto:contact.anikit@gmail.com">contact.anikit@gmail.com</a>.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnikitDeveloper96&label=Profile%20views&color=0e75b6&style=flat" alt="AnikitDeveloper96" /> </p>
 ---
-
-### 📚 Current Focus
-I'm currently channelling my energy into:
-- 🚀 Deepening my expertise in Flutter, Dart, and Firebase: Continuously learning and applying advanced techniques in mobile app development.
-- ⚛️ Expanding my skills in React Native: Exploring its ecosystem for building efficient cross-platform applications.
-- 🧠 Exploring the fascinating world of AI-powered Chatbot Development: Experimenting with Alexa Skills and DialogFlow to build intelligent and engaging conversational interfaces.
-
----
-
 ### 📊 My GitHub Contributions
 <p align="center">
   <a href="https://github.com/AnikitDeveloper96">
@@ -125,13 +129,4 @@ I'm currently channelling my energy into:
   </a>
 </p>
 
----
 
-### 📫 Let's Connect!
-I'm always open to collaboration, discussions about tech, or just a friendly chat! You can find me on:
-<p align="left">
-  <a href="https://www.linkedin.com/in/anikit-grover/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"></a>
-  <a href="https://twitter.com/anikitgrover96" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"></a>
-  <a href="https://www.instagram.com/iamanikitgroveroffical/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"></a>
-  <a href="https://www.youtube.com/@anikitgrover9173" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-</p>
