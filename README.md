@@ -79,10 +79,22 @@ An exploration of a captivating product details screen and intuitive category na
 
 Key Features:
 🔍 Detailed product information display.
-You can navigate through product categories with ease.
+You can easily navigate through product categories.
 Smooth and responsive user interface built with Flutter.
 Focus on UI/UX for an engaging shopping experience.
+---
 
+#### 🛍️Khanna - Food Delivery App UI<a href="https://www.youtube.com/watch?v=YQbQaUexlG8" target="_blank">View on Youtube </a>
+Khanna is a UI exploration of a modern food delivery app built entirely in Flutter. The project showcases a smooth, intuitive, and visually appealing user experience, from a seamless onboarding process to a streamlined checkout.
+
+Key Features:
+- Effortless Onboarding: A clean and welcoming introduction for new users.
+
+- Smart Search: A new feature for real-time, instant search results.
+
+- Intuitive Navigation: A streamlined home screen and integrated navigation drawer for quick access.
+
+- Optimised Performance: A smooth and responsive UI built with Flutter, optimised for a seamless experience.
 ---
 
 #### 📰 Instant News App (Flutter) <a href="https://play.google.com/store/apps/details?id=com.instantnewsapp_anikitgrover" target="_blank">View on Google Play</a>
