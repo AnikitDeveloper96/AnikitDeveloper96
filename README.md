@@ -78,13 +78,13 @@ A sleek, modern, and fully **responsive Interior Design Studio landing page** bu
 An exploration of a captivating product details screen and intuitive category navigation within a Flutter-based e-commerce application.
 
 Key Features:
-🔍 Detailed product information display.
-You can easily navigate through product categories.
-Smooth and responsive user interface built with Flutter.
-Focus on UI/UX for an engaging shopping experience.
+- Detailed product information display.
+- You can easily navigate through product categories.
+- Smooth and responsive user interface built with Flutter.
+- Focus on UI/UX for an engaging shopping experience.
 ---
 
-#### 🛍️Khanna - Food Delivery App UI<a href="https://www.youtube.com/watch?v=YQbQaUexlG8" target="_blank">View on Youtube </a>
+#### 🛍️Khanna - Food Delivery App UI <a href="https://www.youtube.com/watch?v=YQbQaUexlG8" target="_blank">View on Youtube </a>
 Khanna is a UI exploration of a modern food delivery app built entirely in Flutter. The project showcases a smooth, intuitive, and visually appealing user experience, from a seamless onboarding process to a streamlined checkout.
 
 Key Features:
